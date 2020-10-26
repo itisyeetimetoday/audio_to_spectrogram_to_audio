@@ -1,4 +1,5 @@
-# audio_to_spectrogram_to_audio
+# Converts Spectrograms to Audio and back around
+
 Using ARSS, this repo convert audio to spectrogram and back.
 
 Dependency:
